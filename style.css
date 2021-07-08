@@ -1,0 +1,48 @@
+h3 {
+  color: blue;
+  font-family: Comic sans-serif;
+  font-size: 80px;
+  font-weight: bolder;
+  margin-left: 100px;
+}
+
+body {
+  background-color: lightBlue;
+}
+
+a.navigation-link {
+  padding: 0px 10px;
+  word-wrap: normal;
+  display: inline-block;
+}
+
+a {
+  margin: 100px 150px 50px;
+  color: darkBlue;
+  font-size: 20px;
+  font-style: italic;
+}
+
+p {
+  color: white;
+  font-size: 25px;
+  margin: 50px 100px 50px 100px;
+}
+
+img {
+  margin: 30px 10px;
+}
+
+button {
+  font-size: 40px;
+  color: darkBlue;
+  font-weight: bolder;
+  background-color: blue;
+}
+
+h2{
+  font-size: 80px;
+  color: blue;
+  font-weight: bolder;
+  margin-left: 50px;
+}
